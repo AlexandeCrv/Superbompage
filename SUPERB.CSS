@@ -1,0 +1,156 @@
+header{
+    height: 700px;
+    background-image:url(76300e91-3093-43c7-810d-af17200b0bd7.png);
+    background-size: cover;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+    background-repeat: no-repeat;
+    color: white;
+    
+}
+
+
+#title-principal{
+ 
+padding: 300PX;
+font-size: 20px;
+
+    }
+
+
+body{
+    margin: 0px;
+    margin-top: 0px;
+    
+   
+}
+
+
+#main{
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.quiz{
+    color: green;
+}
+
+
+p{
+    color: green;
+    font-size: 20px;
+    
+}
+
+
+h3{
+    color: green;
+}
+
+
+#title-conteiner{
+    height: 200px;
+    width: 400px;
+    background-color: green;
+    border-radius: 2px;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+
+}
+
+
+
+#conteiner{
+    height: 550px;
+    width: 400px;
+    background-color: whitesmoke;
+    border-radius: 5px;
+    border: 2px solid;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-right: 50px;
+}
+
+form{
+
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    border-color: white;
+  
+}
+
+
+#input1{
+
+
+    margin-bottom: 30px;
+    padding: 10px;
+    border-radius: 3px;  
+}
+
+
+#input2{
+
+    margin-bottom: 30px;
+    padding: 10px;
+    border-radius: 3px;  
+}
+
+
+#select{
+    margin-bottom: 30px;
+    padding: 10px;
+    border-radius: 3px;  
+    
+}
+
+button{
+
+    padding: 10px;
+    border-radius: 3px;
+    background-color: greenyellow;
+}
+
+
+#h6{
+
+   margin-left: 60px;
+}
+
+
+#main1{
+
+    display: flex;
+    justify-content: space-between;
+}
+
+footer{
+    height: 400px;
+    width: 100%;
+    background-color: rgba(5, 88, 5, 0.712);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+
+}
+
+.p-f{
+
+    color: white;
+}
+
+img{
+
+    height: 200px;
+    width: 200px;
+  
+}
